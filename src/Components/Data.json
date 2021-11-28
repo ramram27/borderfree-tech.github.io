@@ -1,0 +1,155 @@
+[ 
+
+  { 
+    "name" : "K' Footlance ",
+   "img":"https://rukminim1.flixcart.com/image/880/1056/kjhgzgw0-0/shoe/g/j/s/kc034-gry-k-footlance-grey-original-imafzfmk64pmd2h4.jpeg?q=50",
+   "price":629, 
+   
+   "available":1, 
+  
+   "category":"Shoes Running Shoes For Men "
+  
+   },
+
+  { 
+    "name" : "Comfortable and Stylish Sports",
+   "img":"https://rukminim1.flixcart.com/image/581/697/kn3i1zk0/shoe/m/2/9/7-brd-470-471-7-birde-multicolor-original-imagfutrehrqzpt4.jpeg?q=50",
+ 
+   "price":399, 
+   
+   "available":1, 
+  
+   "category":"Shoes Running Shoes For Men "
+  
+   },
+
+
+  { 
+    "name" : "OnePlus Smart Band:",
+   "img":"https://m.media-amazon.com/images/I/61XPTRJZcCL._AC_UL480_QL65_.jpg",
+ 
+   "price":499, 
+   
+   "available":1, 
+  
+   "category":"13 Exercise Modes, Blood Oxygen Saturation (SpO2), Heart Rate & Sleep Tracking, 5ATM+Water & Dust Resistant( Android & iOS Compatible)"
+  
+   },
+
+  { 
+    "name" : "HUNTSMANS ERA",
+   "img":"https://m.media-amazon.com/images/I/61IwE8i6KIL._AC_UL480_QL65_.jpg",
+ 
+   "price":499, 
+   
+   "available":1, 
+   
+   "category":"Men Women/Winter Cap"
+  
+   },
+
+  { 
+    "name" : "Redux Analog Linear Designer",
+   "img":"https://m.media-amazon.com/images/I/81BDpSIwu3L._AC_UL480_QL65_.jpg",
+ 
+   "price":440, 
+   
+   "available":1, 
+   "category":"Men’s & Boy's Watch"
+  
+   },
+  
+  { 
+    "name" : "Envias",
+   "img":"https://m.media-amazon.com/images/I/71CryJ8FJyS._AC_UL480_FMwebp_QL65_.jpg",
+ 
+   "price":540, 
+   
+   "available":1, 
+   
+   "vendor":"Delhi Pvt Ltd",
+   "category":"Men’s & Boy's Watch"
+  
+   },
+
+  { 
+     "name" : "LEGAL BRIBE",
+    
+    "img":"https://m.media-amazon.com/images/I/71nMAip1j-L._AC_UL480_FMwebp_QL65_.jpg",
+  
+    "price":340, 
+    
+    "available":1, 
+    
+    "vendor":"Himachal Pvt Ltd",
+    "category":"Women's Shoulder Bag"
+   
+    
+    },
+
+  { 
+  
+  "name":"Potato", 
+  
+  "img":"https://www.mangopoint.in/wp-content/uploads/2020/11/brown-baby-potatoes-500x500-1.jpg",
+
+  "price":30, 
+  
+  "available":1, 
+  
+  "vendor":"Himachal Pvt Ltd", 
+  
+  "category":"Vegtables" 
+  
+  }, 
+  
+  { 
+  
+  "name":"Banana", 
+
+  "img":"https://cdn.mos.cms.futurecdn.net/42E9as7NaTaAi4A6JcuFwG-1200-80.jpg",
+  
+  "price":50, 
+  
+  "available":1, 
+  
+  "category":"Fruits",
+  
+  "vendor": "Organic farms"
+  
+  
+  }, 
+  
+  { 
+  
+  "name":"Drumsticks", 
+
+  "img":"https://www.commodityinsightsx.com/images/commodities/drumstick.jpg",
+  
+  "price":20, 
+  
+  "available":0, 
+  
+  "category":"Vegetables", 
+  
+  "vendor":"Mallikarjuna farms"
+  
+  }, 
+  
+  { 
+  
+  "name":"Orange", 
+
+  "img":"https://static8.depositphotos.com/1020804/884/i/600/depositphotos_8840885-stock-photo-orange-fruits-on-a-white.jpg",
+  
+  "price":25, 
+  
+  "available":1, 
+  
+  "vendor":"Nagpur farms", 
+  
+  "category":"Fruits" 
+  
+  } 
+  
+  ] 

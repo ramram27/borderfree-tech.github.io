@@ -1,0 +1,71 @@
+body{
+  background-color: #EFEFEF;
+}
+
+.main-card{
+  margin-top: 40px;
+  width: 530px;
+  text-align: center;
+  height: 330px;
+  background-color: darkgray;
+ 
+  box-shadow: 2px 2px 5px 5px  #F9F3DF;
+  margin-left: 50px;
+ 
+  float: left;
+}
+
+img{
+ 
+  width: 330px;
+  height: 330px;
+}
+
+.img-card {
+  float: left;
+}
+
+.item-card {
+  margin-top: 80px;
+}
+
+div,.main-card {
+ font-size: 19px;
+}
+
+button {
+  margin-top: 0px;
+  color: red;
+  width: 80px;
+  height: 30px;
+  font-size: large;
+  font-weight: bold;
+  
+}
+
+.cart{
+  border-radius: 50px;
+  margin-top: 10px;
+  z-index: -1;
+  position: absolute;
+
+  width: 50px;
+  height: 50px;
+ 
+}
+
+.value{
+  color: red;
+  font-size: 30px;
+  font-weight: bold;
+ margin-left: 35px;
+ margin-top: 8px;
+
+}
+
+.headcart {
+  width: 60px;
+  height: 60px;
+ display: grid;
+ margin-left: 90%;
+}
